@@ -1,3 +1,5 @@
 #####=== IPythonNotebook ===#####
 # Temporary data
 .DS_store
+.ipynb_checkpoints
+data/*
