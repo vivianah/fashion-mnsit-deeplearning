@@ -31,3 +31,7 @@ All our finalized notebooks are in the "notebooks" folder.
     * __InceptionResNetV2__ - _InceptionResNetV2_0530_V2.ipynb_, _InceptionResNetV2_0530_V3.ipynb_
     * __ResNet50__ - _resnet50_model_vh.ipynb_, _resnet50_v3_model_vh.ipynb_, _resnet50_v4_model_vh.ipynb_, _resnet50_v5_model_vh.ipynb_, _resnet50_v6_model_vh.ipynb_
     * __InceptionV3__ - _InceptionV3_0530.ipynb_
+    
+ ## Results
+ 
+ The __results__ folder contains images of the accuracy and loss plots from our models above as well as an image showing the layer used for the CNN with two Conv2D model that had the highest performance with an overall accuracy of 92.6%.
